@@ -11,18 +11,17 @@ Este proyecto es una aplicación web que permite a los usuarios ver información
 
 ## API
 
-La información de NFTs y criptomonedas se obtiene de la [Coingecko API](https://coingecko.com/api).
+La información de NFTs y criptomonedas se obtiene de la [CoinGecko API](https://coingecko.com/api).
 
 ## Instalación
 
-1. Clona el repositorio: `git clone https://github.com/yourusername/your-repo-name.git`
-2. Navega hasta el directorio del proyecto: `cd your-repo-name`
+1. Clona el repositorio: `git clone https://github.com/ramon22mo/CryptoChart.git`
+2. Navega hasta el directorio del proyecto: `cd CryptoChart`
 3. Instala las dependencias: `npm install`
 4. Crea un archivo `.env.local` en la raíz del proyecto y añade las siguientes variables de entorno: `VITE_API_URL=https://api.coingecko.com/api/v3`
-   > Nota: No subiré el archivo `.env` al repositorio por razones de seguridad. Deberás crear tu propio archivo `.env.local` y añadir tus propias variables de entorno.
 5. Inicia el servidor de desarrollo: `npm run dev`
 
-Ahora deberías poder ver la aplicación corriendo en `http://localhost:3000`.
+Ahora deberías poder ver la aplicación corriendo en `http://localhost:5173`.
 
 ## Licencia
 
